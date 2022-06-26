@@ -1,3 +1,5 @@
+# hadoopStudy
+
 1. Hadoop is an open-source software framework that is used for storing and processing big data.
 
 2. Hadoop is comprised of two main components: the Hadoop Distributed File System (HDFS) and the MapReduce programming model.
